@@ -65,13 +65,3 @@ o array deve ficar assim:
 - Crie um middleware que será utilizado em todas rotas que recebem o parâmetro ID, então ele deve verificar se o ID passado existe. Se não existir retorne um erro, caso contrário permita a requisição continuar normalmente;
 
 - Crie um middleware que é chamado em todas requisições que tenha um console.log que mostra o método da requisiçao(GET,POST,PUT,DELETE, etc) e também a url da requisição.
-
-### Exemplo
-[GET] - /order
-
-## 📅 Entrega
-
-Após finalizar o desafio, suba o projeto para o seu github e compartilhe no Club, para todos verem que você conseguiu.
-
-
-Feito com ♥ by Code Club - Rodolfo Mori
